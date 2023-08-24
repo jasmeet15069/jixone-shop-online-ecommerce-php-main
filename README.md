@@ -79,9 +79,10 @@ Bye me Cup of coffee
 
 
 ## visit my other repository with different admin pages with below link
-https://github.com/jasmeet78
+
 
 https://github.com/jasmeet15069
+https://github.com/sushant6830
 
 ##  If you like my project hit a star button
 
